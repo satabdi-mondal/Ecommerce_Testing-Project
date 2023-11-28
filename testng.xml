@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="AddToCartPage Test">
+    <classes>
+      <class name="pageobjects.AddToCartPage"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="signinpage Test">
+    <classes>
+      <class name="pageobjects.signinpage"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="Paymentpage Test">
+    <classes>
+      <class name="pageobjects.Paymentpage"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
