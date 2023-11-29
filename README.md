@@ -6,3 +6,4 @@ In this Project I'm testing a Ecommerce Application - http://www.automationpract
 TestNG to run the test cases In first test case checking whether I'm able to search and add Product to the cart In second test case, 
 testing signing in features of the application In third test case,
 checking further checkout process including payment
+
